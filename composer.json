@@ -1,0 +1,20 @@
+{
+    "name": "paulinhosupriano/passwordcryptphp",
+    "description": "cria,verifica e gera senhas codificadas(hash).",
+    "type":"library",
+    "license":"GPL-3.0-or-later",
+    "authors": [
+        {
+            "name":"João Paulo",
+            "email":"paulinhosupriano@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PaulinhoSupriano\\passwordCryptPHP\\":"src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
