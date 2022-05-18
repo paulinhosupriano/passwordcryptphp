@@ -1,6 +1,6 @@
 {
     "name": "paulinhosupriano/passwordcryptphp",
-    "description": "cria,verifica e gera senhas codificadas(hash).",
+    "description": "cria senha hash, verifica senhas hash e gera senhas aleatórias.",
     "type":"library",
     "license":"GPL-3.0-or-later",
     "authors": [
